@@ -1,0 +1,7 @@
+.ivu-table-small td{
+    height: 32px !important;
+}
+.textarea-input .ivu-input {
+    font-size: 12px !important;
+    padding: 2px 7px !important;
+}
